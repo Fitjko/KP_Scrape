@@ -1,0 +1,1 @@
+Python script using selenium and web driver for scraping a website. It stores and prints an array value of items price and name for further scripting use or quick non GUI user insight on available products. 
